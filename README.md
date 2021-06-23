@@ -1,2 +1,3 @@
 # NewPlayer-Guess
-KNN( Known Nearest Neighbour ) project to guess new player attribute using stats of new player and older players.
+KNN ( Known Nearest Neighbour ) project to guess new player attribute using stats of new player and older players.
+Project prepared in C++.
